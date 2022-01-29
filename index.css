@@ -244,6 +244,23 @@ nav a{
     max-width: 100%;
   }
   }
+  /*social media icons*/
+.vector{
+    float: left;
+    display: table;
+    padding: 20px;
+    padding-left: 20px;
+    flex-wrap: wrap;
+
+}
+#below{
+    height: 50%;
+    width:50%;
+
+}
+.secondcontainer{
+    margin: 30px;
+}
 
 
 
