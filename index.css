@@ -140,3 +140,60 @@ nav a{
     height: 100px;
     
   }
+  @media screen and (max-width:960px) {
+    .input{
+      flex: 100%;
+      max-width: 80%;
+    }
+    }
+    
+    @media screen and (max-width:600px) {
+    .input{
+      flex: 100%;
+      max-width: 100%;
+    }
+    }
+
+/*section for life section*/
+.idea{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
+    justify-content: space-evenly;
+    text-align: center;
+    margin: 40px 0 40px;
+}
+@media screen and (max-width:960px) {
+    .idea{
+      flex: 100%;
+      max-width: 80%;
+    }
+    }
+    
+    @media screen and (max-width:600px) {
+    .idea{
+      flex: 100%;
+      max-width: 100%;
+    }
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
