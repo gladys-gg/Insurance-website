@@ -353,6 +353,37 @@ margin:150px;
   .plan-section .master{
     background-color: #f6f6f6;
   }
+/*Branches all over the world*/
+.div-1{
+  margin: 20px;
+  background-color: #252B42 ;
+  height: 500px;
+ margin-top: 200px;
+ background-image: 
+ url("image/pngwing 1.png");
+background-repeat: no-repeat, no-repeat;
+background-position:  right 120px,  bottom center;
+margin-bottom: 0%,-50%;
+background-size: 40%,20%;
+text-align: center;
+opacity: 0.9;
+position: relative;
+overflow: hidden,visible;
+}
+/*.div-1{
+  margin: 20px;
+  background-color: #252B42 ;
+  height: 500px;
+ margin-top: 200px;
+ background-image: 
+ url("image/pngwing 1.png");
+background-repeat: no-repeat, no-repeat;
+background-position:  right 120px;
+background-size: 40%;
+text-align: center;
+opacity: 0.9;
+position: relative;
+}*/
 
 
 
