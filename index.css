@@ -245,22 +245,17 @@ nav a{
   }
   }
   /*social media icons*/
-.vector{
-    float: left;
-    display: table;
-    padding: 20px;
-    padding-left: 20px;
-    flex-wrap: wrap;
-
-}
-#below{
-    height: 50%;
-    width:50%;
-
-}
-.secondcontainer{
-    margin: 30px;
-}
+  .secondcontainer{
+    margin-top: 50px;
+      margin-bottom: 30px;
+      justify-content: center;
+      flex-direction: row;
+      display: flex;
+  }
+  .secondcontainer img{
+    width: 60px;
+    margin-right: 30px;
+  }
 
 /*subscribe section*/
 .subscribe{
