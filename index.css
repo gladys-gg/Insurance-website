@@ -263,12 +263,36 @@ nav a{
 }
 
 /*subscribe section*/
-#subscribe{
-    display: block;
-place-items: center;
-background: linear-gradient(to right, rgb(16, 1, 27), rgb(245, 13, 245));
-position: relative;
-margin:150px;
+.subscribe{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  border-style: none;
+  width: 1200px;
+  background: linear-gradient(to right,rgb(16, 1, 27), rgb(245, 13, 245));
+  border-color: none;
+  margin-left: 55px;
+}
+.subscribe h3{
+  margin-right: 80px;
+  margin-top: 5px;
+  font-size: large;
+}
+
+.field {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: row;
+}
+
+.btn-2 {
+  background-color: #23A6F0;
+  color: white;
+  margin: 0px;
+  margin-left: -5px;
+  height: 35px;
+  border: 0px;
+  border: none;
 }
 
 /*This is the pricing section*/  
